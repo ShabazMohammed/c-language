@@ -1,2 +1,2 @@
-# c-language
+language
 subject 
